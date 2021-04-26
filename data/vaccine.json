@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "availability": "Available",
+            "city": "Mumbai",
+            "comment": null,
+            "createdTime": "2021-04-24T18:06:13.000Z",
+            "description": "Covishield",
+            "district": "Mumbai City",
+            "emailId": null,
+            "id": "dummy1",
+            "lastVerifiedOn": null,
+            "name": "Breach Candy Hospital",
+            "phone1": null,
+            "phone2": null,
+            "sourceLink": null,
+            "sourceName": null,
+            "state": "Maharashtra",
+            "type": [
+                "Covishield",
+                "Covaxin"
+            ],
+            "verificationStatus": "Unresponsive",
+            "verifiedBy": [
+                {}
+            ]
+        },
+        {
+            "availability": null,
+            "city": "Mumbai",
+            "comment": "only Covishield\n",
+            "createdTime": "2021-04-19T09:53:14.000Z",
+            "description": "Covishield, Covaxin",
+            "district": "Mumbai City",
+            "emailId": null,
+            "id": "dummy2",
+            "lastVerifiedOn": "2021-04-22T07:14:14.000Z",
+            "name": "Kasturba Hospital",
+            "phone1": null,
+            "phone2": null,
+            "sourceLink": null,
+            "sourceName": null,
+            "state": "Maharashtra",
+            "type": "Covishield",
+            "verificationStatus": "Verified",
+            "verifiedBy": "suresh"
+        },
+        {
+            "availability": "not available",
+            "city": "Mumbai",
+            "comment": "checked at 8AM\n",
+            "createdTime": "2021-04-19T09:53:14.000Z",
+            "description": "Covishield, Covaxin",
+            "district": "Mumbai Suburban",
+            "emailId": null,
+            "id": "dummy3",
+            "lastVerifiedOn": "2021-04-22T07:14:14.000Z",
+            "name": "Seven Hills Hospital",
+            "phone1": null,
+            "phone2": null,
+            "sourceLink": null,
+            "sourceName": null,
+            "state": "Maharashtra",
+            "type": "Covishield",
+            "verificationStatus": "Verified",
+            "verifiedBy": "suresh"
+        }
+    ]
+}
